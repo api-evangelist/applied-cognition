@@ -10,6 +10,17 @@ description: Applied Cognition is a clinical-stage neuroscience company unlockin
   added to the API Evangelist network for enrichment. It is a therapeutics/medical company
   and does not currently publish a public developer program, API, or developer documentation.
 url: https://raw.githubusercontent.com/api-evangelist/applied-cognition/refs/heads/main/apis.yml
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
